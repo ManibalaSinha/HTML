@@ -1,0 +1,16 @@
+{
+  "artists": [
+    {
+      "bio": "Hi this bio of artists",
+      "shortname": "short",
+      "name": "json javascript",
+      "reknown": "Royal Academy"
+    },
+    {
+      "bio": "Hi this bio of artists",
+      "shortname": "short",
+      "name": "json javascript",
+      "reknown": "Royal Academy"
+    }
+  ]
+}
